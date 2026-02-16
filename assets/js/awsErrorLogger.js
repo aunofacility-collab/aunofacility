@@ -1,0 +1,1 @@
+"use strict";var _awsErrorLogger={init:function(){window.addEventListener("errorLog",function(r){var o=$.post("/api.php/utils/frontendlogger?command=logerror",r.detail);return o.status})}};_awsErrorLogger.init();
