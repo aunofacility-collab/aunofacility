@@ -1,0 +1,29 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 19 Sep 2024 16:48:08 at https://01297935000.sandbox.beedigitalweb.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps0u2%s%uN100%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "es, en, *" https://01297935000.sandbox.beedigitalweb.com/ -O1 "C:\Users\LuisCALABUIGHERNANDE\OneDrive - Odigo\Escritorio\WEB\01297935000.sandbox.beedigitalweb.com\01297935000.sandbox.beedigitalweb.com" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:52:37	Error: 	"Not Found" (404) at link https://01297935000.sandbox.beedigitalweb.com/assets/css/images/layers.png (from https://01297935000.sandbox.beedigitalweb.com/assets/css/external-libs.css?1726562130301)
+16:52:37	Error: 	"Not Found" (404) at link https://01297935000.sandbox.beedigitalweb.com/assets/css/images/layers-2x.png (from https://01297935000.sandbox.beedigitalweb.com/assets/css/external-libs.css?1726562130301)
+16:52:37	Error: 	"Not Found" (404) at link https://01297935000.sandbox.beedigitalweb.com/assets/css/images/geocoder.png (from https://01297935000.sandbox.beedigitalweb.com/assets/css/external-libs.css?1726562130301)
+16:52:37	Error: 	"Not Found" (404) at link https://01297935000.sandbox.beedigitalweb.com/assets/css/images/throbber.gif (from https://01297935000.sandbox.beedigitalweb.com/assets/css/external-libs.css?1726562130301)
+16:52:37	Error: 	"Not Found" (404) at link https://01297935000.sandbox.beedigitalweb.com/?p=p7062 (from https://01297935000.sandbox.beedigitalweb.com/?p=p9533)
+16:52:37	Error: 	"Not Found" (404) at link https://01297935000.sandbox.beedigitalweb.com/?p=p5573 (from https://01297935000.sandbox.beedigitalweb.com/?p=p9533)
+16:52:37	Error: 	"Not Found" (404) at link https://01297935000.sandbox.beedigitalweb.com/?p=p6964 (from https://01297935000.sandbox.beedigitalweb.com/?p=p9533)
+16:52:37	Warning: 	Retry after error -4 (No data (connection closed)) at link https://01297935000.sandbox.beedigitalweb.com/uploads/2y8zu9NW/12092141_l_normal_none.jpg (from https://01297935000.sandbox.beedigitalweb.com/piscinas)
+16:52:37	Warning: 	Retry after error -4 (Incorrect length (1338580 Bytes, 4591751 expected)) at link https://01297935000.sandbox.beedigitalweb.com/uploads/toyIlq3O/IMG_20230310_153508__msi___jpg.jpg (from https://01297935000.sandbox.beedigitalweb.com/piscinas)
+16:52:37	Warning: 	Retry after error -4 (Incorrect length (3689672 Bytes, 6983559 expected)) at link https://01297935000.sandbox.beedigitalweb.com/uploads/31xIrs2u/verdeplanta.jpg (from https://01297935000.sandbox.beedigitalweb.com/jardineria1)
+16:52:37	Warning: 	Retry after error -4 (Incorrect length (937172 Bytes, 4032431 expected)) at link https://01297935000.sandbox.beedigitalweb.com/uploads/6sppcz4h/IMG_20160324_103250__msi___jpg.jpg (from https://01297935000.sandbox.beedigitalweb.com/jardineria1)
+16:52:59	Warning: 	Retry after error -4 (No data (connection closed)) at link https://01297935000.sandbox.beedigitalweb.com/uploads/BvxzA8sN/cespedartificial__msi___png.png (from https://01297935000.sandbox.beedigitalweb.com/jardineria1)
+16:53:27	Error: 	"Not Found" (404) at link https://01297935000.sandbox.beedigitalweb.com/assets/css/icons/6.323 (from https://01297935000.sandbox.beedigitalweb.com/assets/css/icons/discover.svg)
+16:53:27	Warning: 	Retry after error -4 (Incorrect length (756936 Bytes, 4704102 expected)) at link https://01297935000.sandbox.beedigitalweb.com/uploads/2y8zu9NW/12092141_l_normal_none.jpg (from https://01297935000.sandbox.beedigitalweb.com/piscinas)
+16:53:32	Warning: 	Retry after error -4 (Incorrect length (3340641 Bytes, 4591751 expected)) at link https://01297935000.sandbox.beedigitalweb.com/uploads/toyIlq3O/IMG_20230310_153508__msi___jpg.jpg (from https://01297935000.sandbox.beedigitalweb.com/piscinas)
+16:53:32	Warning: 	Retry after error -4 (Incorrect length (5691745 Bytes, 6983559 expected)) at link https://01297935000.sandbox.beedigitalweb.com/uploads/31xIrs2u/verdeplanta.jpg (from https://01297935000.sandbox.beedigitalweb.com/jardineria1)
+16:53:35	Warning: 	Retry after error -4 (Incorrect length (2783586 Bytes, 4032431 expected)) at link https://01297935000.sandbox.beedigitalweb.com/uploads/6sppcz4h/IMG_20160324_103250__msi___jpg.jpg (from https://01297935000.sandbox.beedigitalweb.com/jardineria1)
+16:53:50	Error: 	"Incorrect length (1562966 Bytes, 4704102 expected)" (-4) after 2 retries at link https://01297935000.sandbox.beedigitalweb.com/uploads/2y8zu9NW/12092141_l_normal_none.jpg (from https://01297935000.sandbox.beedigitalweb.com/piscinas)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 43 seconds : 449 links scanned, 431 files written (103293347 bytes overall) [102646858 bytes received at 299261 bytes/sec], 3227396 bytes transferred using HTTP compression in 44 files, ratio 24%, 14.1 requests per connection
+(9 errors, 9 warnings, 0 messages)
