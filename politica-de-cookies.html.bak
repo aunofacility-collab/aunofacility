@@ -500,12 +500,50 @@ body a:hover {  }
 </div>
 </div>
 <div id="footer-placeholder"></div>
+    
+    
+    <div id="r1074c"  class="container container-fixed"><div id="c3869"  class="col col-md-3 col-sm-12 col-lg-2" ><a  href="#" rel="nofollow" onclick="return false" style="cursor: default;" class="imageModuleWrap" id="w_m4679">
+
+
+        <img  id="m4679" class="module image" src="images/logo-removebg-preview1.png" alt="Auno Facility" data-author="" data-req="" data-settings="enablehover=false,showelement=none,hovertransition=slowFadeIn" data-ai="" fetchpriority="high" />
+
+</a></div>
+<div id="c3299"  class="col col-sm-12 col-md-6 col-lg-5" ><div id="m4214"  class="module text" ><p class="lightsmalltext" style="font-weight: bold;"><span style="color: #575757;">CONTACTA CON NOSOTROS</span></p></div>
+<div id="m3000"  class="module text" ><p class="footertext"><span class="iconfont "></span> &nbsp; <a href="tel:697111875" target="_blank">697111875</a></p><p class="footertext"><span class="iconfont "></span>&nbsp; &nbsp;aunofacility@gmail.com</p><p class="footertext"><span class="iconfont "></span>&nbsp; &nbsp;c. Valle Inclán 78, 28044 Madrid. MADRID</p></div>
+</div>
+<div id="c4959"  class="col col-md-3 col-sm-12 col-lg-5" ><div id="m1280"  class="module text" ><p class="lightsmalltext"><span style="font-weight: bold; color: #1b4659;">ENLACES LEGALES</span></p></div>
+<div id="m2878"  class="module text" ><p class="footertext"><a href="aviso-legal.html">Aviso Legal</a></p><p class="footertext"><a href="politica-de-privacidad.html">Política de Privacidad</a></p><p class="footertext"><a href="politica-de-cookies.html">Política de Cookies</a><a href="politica-de-cookies.html"></a><br></p></div>
+</div>
+</div>
+</div>
+<div id="r3009"    class="row " >
+    
+    
+    <div id="r3009c"  class="container container-fixed"><div id="c7981"  class="col col-sm-12" ><a  href="#" rel="nofollow" onclick="return false" style="cursor: default;" class="imageModuleWrap" id="w_m1924">
+
+
+        <img  id="m1924" class="module image" src="images/kit-digital-Logo-digitalizadores.jpg" alt="PROGRAMA KIT DIGITAL COFINANCIADO POR LOS FONDOS NEXT GENERATION (EU) DEL MECANISMO DE RECUPERACIÓN Y RESILENCIA" data-author="" data-req="" data-settings="enablehover=false,showelement=,hovertransition=" fetchpriority="high" />
+
+</a></div>
+</div>
+</div>
+</footer>
+<div class="row brandfooter">
+    <div class="container container-fixed">
+        <div class="col col-md-8 col-lg-8 col-sm-12 text-left">
+            &copy; 2024 AUNO FACILITY, S.L. Todos los derechos reservados
+        </div>
+        <div class="col col-md-4 col-lg-4 col-sm-12 text-right">
+        </div>
+    </div>
+</div>
+</div>
 </div>
 </div>
 
         <a href='#' data-req="scrollTop" class='scrollIcon hidden bottom_right' aria-label="Ir al inicio de la página">
     <span></span>
-</a><script data-cookieconsent="ignore" nomodule src="assets/js/loader-polyfills4886.js?1726562130301"></script><script data-cookieconsent="ignore" src="assets/js/loader4886.js?1726562130301"></script><script src="assets/js/include-loader.js"></script><script type='application/ld+json'>{"@context":"http://schema.org","@type":"LocalBusiness","@id":"https://www.aunofacility.es/#global_business","name":"AUNO FACILITY, S.L.","address":{"@type":"PostalAddress","streetAddress":"Calle Valle-Incl\u00e1n, 78","addressLocality":"Madrid","addressRegion":"MADRID","postalCode":"28044","addressCountry":"ESPA\u00d1A"},"email":"aunofacility@gmail.com","telephone":"697111875","description":"MANTENIMIENTO DE PISCINAS EN MADRID.","latitude":"0.0","longitude":"0.0","url":"https://www.aunofacility.es","openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":"http://schema.org/Tuesday","opens":"09:00","closes":"19:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"http://schema.org/Friday","opens":"09:00","closes":"19:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"http://schema.org/Thursday","opens":"09:00","closes":"19:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"http://schema.org/Wednesday","opens":"09:00","closes":"19:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"http://schema.org/Monday","opens":"09:00","closes":"19:00"}],"image":"https://www.aunofacility.es/images/9317059_m.jpg","logo":"https://www.aunofacility.es/images/logo-removebg-preview1.png"}</script>
+</a><script data-cookieconsent="ignore" nomodule src="assets/js/loader-polyfills4886.js?1726562130301"></script><script data-cookieconsent="ignore" src="assets/js/loader4886.js?1726562130301"></script><script type='application/ld+json'>{"@context":"http://schema.org","@type":"LocalBusiness","@id":"https://www.aunofacility.es/#global_business","name":"AUNO FACILITY, S.L.","address":{"@type":"PostalAddress","streetAddress":"Calle Valle-Incl\u00e1n, 78","addressLocality":"Madrid","addressRegion":"MADRID","postalCode":"28044","addressCountry":"ESPA\u00d1A"},"email":"aunofacility@gmail.com","telephone":"697111875","description":"MANTENIMIENTO DE PISCINAS EN MADRID.","latitude":"0.0","longitude":"0.0","url":"https://www.aunofacility.es","openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":"http://schema.org/Tuesday","opens":"09:00","closes":"19:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"http://schema.org/Friday","opens":"09:00","closes":"19:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"http://schema.org/Thursday","opens":"09:00","closes":"19:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"http://schema.org/Wednesday","opens":"09:00","closes":"19:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"http://schema.org/Monday","opens":"09:00","closes":"19:00"}],"image":"https://www.aunofacility.es/images/9317059_m.jpg","logo":"https://www.aunofacility.es/images/logo-removebg-preview1.png"}</script>
     <script src="assets/js/cookie-banner.js"></script></body>
 
 <!-- Mirrored from 01297935000.sandbox.beedigitalweb.com/politica-de-cookies by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 19 Sep 2024 14:52:15 GMT -->
